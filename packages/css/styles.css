@@ -447,7 +447,7 @@ img {
 
 .button--white {
   background-color: #fff;
-  background-color: hsl( 190 , 69%, 61%);
+  color: var(--first-color);
 }
 
 .button--white:hover {
