@@ -584,27 +584,19 @@ img {
 }
 
 .skills__html {
-  width: 80%;
-}
-
-.skills__css {
   width: 70%;
-}
-
-.skills__js {
-  width: 50%;
 }
 
 .skills__oracle {
+  width: 90%;
+}
+
+.skills__apex {
   width: 80%;
 }
 
-.skills__mysql {
-  width: 70%;
-}
-
-.skills__php {
-  width: 50%;
+.skills__ords {
+  width: 75%;
 }
 
 .skills__and {
