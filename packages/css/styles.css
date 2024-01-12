@@ -1186,9 +1186,12 @@ img {
   .skills_container,
   .portfolio__content,
   .project__container,
-  .contact__container,
   .footer__container {
     grid-template-columns: repeat(2, 1fr);
+  }
+
+  .contact__container{
+    justify-content: center;
   }
 
   .qualification__sections {
@@ -1390,5 +1393,6 @@ img {
   }
   .contact__inputs {
     grid-template-columns: repeat(2, 1fr);
+    
   }
 }
