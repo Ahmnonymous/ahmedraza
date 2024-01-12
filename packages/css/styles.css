@@ -413,15 +413,16 @@ img {
 
 .button {
   display: inline-block;
-  background-color: var(--first-color);
   color: #ffff;
   padding: 1rem;
   border-radius: 0.5rem;
   font-weight: var(--font-medium);
+  border: 2px solid hsl( 190 , 69%, 61%);
 }
 
 .button:hover {
-  background-color: var(--first-color-alt);
+  background-color: hsl( 190 , 69%, 61%);
+  color: black;
 }
 
 
